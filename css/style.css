@@ -6,6 +6,7 @@ body{
     min-height:60px;
     font-weight:bold;
     padding:0.5em;
+    box-shadow: 5px 5px 15px hsl(0, 0%, 0%, 0.3);
 }
 
 .navbar-toggler{
